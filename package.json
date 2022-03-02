@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/p5": "^1.4.1",
+    "p5": "^1.4.1",
+    "parcel": "^2.3.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2"
+  }
+}
