@@ -1,0 +1,44 @@
+{
+    "schedule": {
+        "A": {
+            "8:40": "Period 1",
+            "9:25": "Passing to 2nd",
+            "9:32": "Period 2",
+            "10:22": "Brunch",
+            "10:39": "Period 3",
+            "11:24": "Passing to 4th",
+            "11:31": "Period 4",
+            "12:16": "Lunch",
+            "13:01": "Passing to 5th",
+            "13:08": "Period 5",
+            "13:53": "Passing to 6th",
+            "14:00": "Period 6",
+            "14:45": "Passing to 7th",
+            "14:52": "Period 7",
+            "15:37": "Free"
+        },
+        "B": {
+            "8:40": "Period 1",
+            "10:10": "Brunch",
+            "10:20": "Passing to 3rd",
+            "10:27": "Period 3",
+            "11:52": "Lunch",
+            "12:37": "Passing to 5th",
+            "12:44": "Period 5",
+            "14:09": "Passing to 7th",
+            "14:16": "Period 7",
+            "15:41": "Free"
+        },
+        "C": {
+            "8:40": "Period 2",
+            "10:10": "ACT",
+            "11:00": "Brunch",
+            "11:10": "Passing to 4th",
+            "11:17": "Period 4",
+            "12:42": "Lunch",
+            "13:27": "Passing to 6th",
+            "13:34": "Period 6",
+            "15:59": "Free"
+        }
+    }
+}
